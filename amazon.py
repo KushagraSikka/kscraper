@@ -1,6 +1,6 @@
-rom selectorlib import Extractor
+from selectorlib import Extractor
 import requests 
-import json as jss
+import json 
 from time import sleep
 
 
